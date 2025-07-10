@@ -1,5 +1,0 @@
-streamlit
-requests
-PyPDF2 
-langchain
-os
